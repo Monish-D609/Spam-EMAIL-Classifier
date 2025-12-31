@@ -2,6 +2,7 @@
 
 A machine learning based email spam classifier using
 TF-IDF and Logistic Regression with threshold tuning.
+Deployed - https://spam-email-classifier-monish.streamlit.app/
 
 ## Tech Stack
 - Python
